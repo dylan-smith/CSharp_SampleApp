@@ -7,6 +7,7 @@
         public const int RZRESULT_INVALID = -1;
         //! Success
         public const int RZRESULT_SUCCESS = 0;
+        // blah blah blah
         //! Access denied
         public const int RZRESULT_ACCESS_DENIED = 5;
         //! Invalid handle
