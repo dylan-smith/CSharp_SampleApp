@@ -14,6 +14,8 @@ namespace CSharp_SampleApp
             Console.WriteLine();
             Console.WriteLine("Use UP and DOWN arrows to select an animation and press ENTER.");
             Console.WriteLine();
+            
+            // foo change 1
 
             for (int index = 1; index <= MAX_ITEMS; ++index)
             {
